@@ -20,12 +20,12 @@ explorers, risk-takers) based solely on gameplay behavior patterns using cluster
 - Silhouette Score for cluster evaluation
 
 ## Project Structure
-player-behavior-segmentation/
-├── data/
-├── notebooks/
-├── src/
-├── reports/
-└── README.md
+-player-behavior-segmentation/
+-├── data/
+-├── notebooks/
+-├── src/
+-├── reports/
+-└── README.md
 
 
 ## Status
