@@ -19,15 +19,6 @@ explorers, risk-takers) based solely on gameplay behavior patterns using cluster
 - PCA / t-SNE for visualization
 - Silhouette Score for cluster evaluation
 
-## Project Structure
--player-behavior-segmentation/
--├── data/
--├── notebooks/
--├── src/
--├── reports/
--└── README.md
-
-
 ## Status
 Phase 0 – Repository setup and feature design
 
