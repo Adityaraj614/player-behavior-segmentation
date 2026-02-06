@@ -137,29 +137,29 @@ The agreement across multiple unsupervised methods confirms that the discovered 
 ---
 
 ## 📂 Project Structure
-"""
+
+```
 player-behavior-segmentation/
 │
 ├── data/
-│ ├── raw/
-│ │ └── players.csv
-│ └── processed/
-│ └── .gitkeep
+│   ├── raw/
+│   │   └── players.csv
+│   └── processed/
+│       └── .gitkeep
 │
 ├── notebooks/
-│ ├── 01_data_generation.ipynb
-│ ├── 02_eda.ipynb
-│ └── 03_clustering.ipynb
+│   ├── 01_data_generation.ipynb
+│   ├── 02_eda.ipynb
+│   └── 03_clustering.ipynb
 │
 ├── src/
-│ └── data_generator.py
+│   └── data_generator.py
 │
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-"""
-
+```
 
 ---
 
