@@ -137,6 +137,7 @@ The agreement across multiple unsupervised methods confirms that the discovered 
 ---
 
 ## 📂 Project Structure
+"""
 player-behavior-segmentation/
 │
 ├── data/
@@ -157,6 +158,7 @@ player-behavior-segmentation/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+"""
 
 
 ---
